@@ -23,7 +23,7 @@ format:
         slide-number: true
 title-slide-attributes: 
   data-background-image: "/Users/mihuynh/Downloads/images/727-Presentation.png"
-  data-background-position: right 700px;
+  data-background-position: right;
 ---
 
 ## Family size has decreased
